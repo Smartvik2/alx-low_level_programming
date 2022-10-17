@@ -3,7 +3,7 @@
 /**
  * main-program entry point.
  *
- * return:0 if no error, non zero if error.
+ * Return:0 if no error, non zero if error.
  *
  **/
 
@@ -12,7 +12,7 @@ int main(void)
 	int i;
 
 	char hexvalues[] =
-		"012345679abcdef";
+	"0123456789abcdef";
 
 	for (i = 0; i < 16; i++)
 	{

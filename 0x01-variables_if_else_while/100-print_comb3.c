@@ -3,7 +3,7 @@
 /**
  * main-program entry point.
  *
- * Return;0 success, non zero fail.
+ * Return:0 success, non zero fail.
  *
  **/
 
@@ -24,7 +24,7 @@ int main(void)
 		{
 			continue;
 		}
-		if (i == '8' && j =='9')
+		if (i == '8' && j == '9')
 		{
 			break;
 		}
